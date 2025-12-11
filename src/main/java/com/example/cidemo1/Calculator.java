@@ -31,4 +31,3 @@ public class Calculator {
         return (int) Math.pow(base, exponent);
     }
 }
-// add comentar
