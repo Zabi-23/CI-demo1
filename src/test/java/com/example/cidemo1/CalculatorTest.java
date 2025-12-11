@@ -50,7 +50,7 @@ class CalculatorTest {
     @Test
     void multiply() {
         int result = calculator.multiply(a, b) ;
-        assertEquals( 22, result ) ;
+        assertEquals( 32, result ) ;
     }
 
     @Test
